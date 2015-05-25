@@ -3,17 +3,13 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class NetBalanceCalculationsTest {
-    StandardRoom room = new StandardRoom();
     NetBalanceCalculations netBalanceCalculations = new NetBalanceCalculations();
+    
     @Test
     public void
-    standard_room_one_weekday_should_be_pay_2000(){
+    standard_room_on_many_weekday(){
+        StandardRoom room = new StandardRoom();
         assertEquals(2000, netBalanceCalculations.onWeekdayBalance(room, 1));
-    }
-
-    @Test
-    public void
-    standard_room_two_weekday_should_be_pay_4000(){
         assertEquals(4000, netBalanceCalculations.onWeekdayBalance(room, 2));
     }
 
