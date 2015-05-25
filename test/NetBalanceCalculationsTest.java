@@ -33,4 +33,11 @@ public class NetBalanceCalculationsTest {
         DeluxeRoom room = new DeluxeRoom();
         assertEquals(4500, netBalanceCalculations.onWeekendBalance(room, 1));
     }
+
+    @Test
+    public void
+    standard_room_on_one_day_and_reserve_breakfast_should_be_pay_2950(){
+        netBalanceCalculations.reserveBreakfast();
+        assertEquals(2950, netBalanceCalculations.onWeekendBalance(room, 1));
+    }
 }

@@ -6,4 +6,8 @@ public class NetBalanceCalculations {
     public int onWeekendBalance(Room room, int numberOfTheDay) {
         return room.getAmountWeekend() * numberOfTheDay;
     }
+
+    public void reserveBreakfast() {
+
+    }
 }
