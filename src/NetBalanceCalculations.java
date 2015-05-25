@@ -8,6 +8,5 @@ public class NetBalanceCalculations {
     }
 
     public void reserveBreakfast() {
-
     }
 }

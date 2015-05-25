@@ -36,8 +36,8 @@ public class NetBalanceCalculationsTest {
 
     @Test
     public void
-    standard_room_on_one_day_and_reserve_breakfast_should_be_pay_2950(){
+    standard_room_on_one_weekday_and_reserve_breakfast_should_be_pay_2450(){
         netBalanceCalculations.reserveBreakfast();
-        assertEquals(2950, netBalanceCalculations.onWeekendBalance(room, 1));
+        assertEquals(2450, netBalanceCalculations.onWeekdayBalance(room, 1));
     }
 }
