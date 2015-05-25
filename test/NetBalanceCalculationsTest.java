@@ -21,6 +21,6 @@ public class NetBalanceCalculationsTest {
     public void
     deluxe_room_one_weekday_should_be_pay_4000(){
         DeluxeRoom room = new DeluxeRoom();
-        assertEquals(4000, netBalanceCalculations.onWeekdayBalance(room, 2));
+        assertEquals(4000, netBalanceCalculations.onWeekdayBalance(room, 1));
     }
 }
