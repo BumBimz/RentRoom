@@ -24,6 +24,13 @@ public class NetBalanceCalculationsTest {
     public void
     standard_room_one_weekend_should_be_pay_2500() {
         StandardRoom room = new StandardRoom();
-        assertEquals(2500,netBalanceCalculations.onWeekendBalance(room,1));
+        assertEquals(2500,netBalanceCalculations.onWeekendBalance(room, 1));
+    }
+
+    @Test
+    public void
+    standard_room_three_weekend_should_be_pay_7500() {
+        StandardRoom room = new StandardRoom();
+        assertEquals(7500,netBalanceCalculations.onWeekendBalance(room,3));
     }
 }
