@@ -1,5 +1,5 @@
 public class NetBalanceCalculations {
-    public int onWeekdayBalance(StandardRoom room, int numberOfTheDay) {
+    public int onWeekdayBalance(Room room, int numberOfTheDay) {
         return 2000 * numberOfTheDay;
     }
 }
