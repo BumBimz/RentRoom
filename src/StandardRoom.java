@@ -3,4 +3,9 @@ public class StandardRoom implements Room {
     public int getAmountWeekday() {
         return 2000;
     }
+
+    @Override
+    public int getAmountWeekend() {
+        return 2500;
+    }
 }

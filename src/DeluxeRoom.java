@@ -3,4 +3,9 @@ public class DeluxeRoom implements Room {
     public int getAmountWeekday() {
         return 4000;
     }
+
+    @Override
+    public int getAmountWeekend() {
+        return 4500;
+    }
 }
