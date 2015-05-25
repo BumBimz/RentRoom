@@ -4,6 +4,6 @@ public class NetBalanceCalculations {
     }
 
     public int onWeekendBalance(Room room, int numberOfTheDay) {
-        return 0;
+        return 2500;
     }
 }
