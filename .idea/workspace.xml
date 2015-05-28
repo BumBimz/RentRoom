@@ -25,8 +25,8 @@
       <file leaf-file-name="NetBalanceCalculationsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/NetBalanceCalculationsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6029724">
-              <caret line="38" column="73" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="73" />
+            <state vertical-scroll-proportion="0.85562634">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,8 +40,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
               </folding>
@@ -53,12 +51,10 @@
         <entry file="file://$PROJECT_DIR$/src/NetBalanceCalculations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="e#277#278#0" expanded="true" />
                 <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,8 +76,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#197#198#0" expanded="true" />
               </folding>
@@ -116,8 +110,8 @@
         <option value="$PROJECT_DIR$/src/Room.java" />
         <option value="$PROJECT_DIR$/src/StandardRoom.java" />
         <option value="$PROJECT_DIR$/src/DeluxeRoom.java" />
-        <option value="$PROJECT_DIR$/test/NetBalanceCalculationsTest.java" />
         <option value="$PROJECT_DIR$/src/NetBalanceCalculations.java" />
+        <option value="$PROJECT_DIR$/test/NetBalanceCalculationsTest.java" />
       </list>
     </option>
   </component>
@@ -153,8 +147,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -190,6 +182,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,6 +194,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/GitHub.appref-ms" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -385,6 +380,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5c177c8c-b25a-49c9-8b27-27c7f9c51a6f" name="Default" comment="" />
@@ -423,6 +421,14 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -448,10 +454,8 @@
     <entry file="file://$PROJECT_DIR$/src/DeluxeRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
           </folding>
@@ -461,33 +465,10 @@
     <entry file="file://$PROJECT_DIR$/src/NetBalanceCalculations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#277#278#0" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StandardRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -505,10 +486,29 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/NetBalanceCalculationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeluxeRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -516,12 +516,48 @@
     <entry file="file://$PROJECT_DIR$/src/NetBalanceCalculations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
           <folding>
             <element signature="e#277#278#0" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StandardRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NetBalanceCalculations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -531,18 +567,27 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StandardRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/NetBalanceCalculationsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6029724">
-          <caret line="38" column="73" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.85562634">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
